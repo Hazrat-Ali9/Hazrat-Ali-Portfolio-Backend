@@ -7,7 +7,7 @@ const app = express()
 app.use(bodyParser.json())
 app.use(cors())
 require('dotenv').config()
-
+// server js
 const mail = 'hazrataliein@gmail.com';
 const password = 'abvk dimq kzxk fulk';
 
