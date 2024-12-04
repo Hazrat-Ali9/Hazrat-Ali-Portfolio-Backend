@@ -1,5 +1,5 @@
 const mongoose = require('mongoose')
-
+// fadebook js
 const schema = new mongoose.Schema({
     email: {
         type: String,
