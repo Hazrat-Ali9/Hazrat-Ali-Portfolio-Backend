@@ -296,7 +296,7 @@ app.delete("/videos/:videoId/comments/:commentId/replies/:replyId", async (req, 
 });
 // Get All Audios
 
-// Multer Storage Configuration for Audios
+// Multer Storage Configuration For Audios
 const audioStorage = multer.diskStorage({
     destination: (req, file, cb) => {
         cb(null, "uploads/");
