@@ -1,0 +1,69 @@
+{
+  "blogs": [
+    {
+      "id": 19,
+      "title": "Understanding the Differences Between let, const, and var in JavaScript",
+      "img": "https://cdn.hashnode.com/res/hashnode/image/upload/v1741364126704/642d6fc6-dc02-449e-85a2-f48bae112524.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp",
+      "link": "https://hazrat-ali.hashnode.dev/understanding-the-differences-between-let-const-and-var-in-javascript",
+      "category": "Web Development",
+      "email": "hazrataliein@gmail.com"
+    },
+    {
+      "id": 22,
+      "title": "HTML Tips and Tricks to Improve Your Web Development Skills.",
+      "img": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740788080972/bb88fb9c-0874-47e2-a027-df5e59a13f91.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp",
+      "link": "https://hazrat-ali.hashnode.dev/html-tips-and-tricks-to-improve-your-web-development-skills",
+      "category": "Web Development",
+      "email": "hazrataliein@gmail.com"
+    },
+    {
+      "id": 23,
+      "title": "Mastering CSS: Essential Styling Techniques for Web Design",
+      "img": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740503966876/1771645c-1bd3-4b95-970c-e612c9f0ef74.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp",
+      "link": "https://hazrat-ali.hashnode.dev/master-the-fundamentals-css-basics-for-styling",
+      "category": "Web Development",
+      "email": "hazrataliein@gmail.com"
+    },
+    {
+      "id": 24,
+      "title": "Handling Asynchronous Code in JavaScript with Promises",
+      "img": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740305421020/3ac1d59f-3859-438c-abdb-e904978314a4.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp",
+      "link": "https://hazrat-ali.hashnode.dev/handling-asynchronous-code-in-javascript-with-promises",
+      "category": "Web Development",
+      "email": "hazrataliein@gmail.com"
+    },
+    {
+      "id": 26,
+      "title": "Fundamental of Javascript",
+      "img": "https://cdn.hashnode.com/res/hashnode/image/upload/v1740068963081/40f0c002-1174-4f2b-bb04-58e00d17e4a3.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp",
+      "link": "https://hazrat-ali.hashnode.dev/fundamental-of-javascript",
+      "category": "Programming",
+      "email": "hazrataliein@gmail.com"
+    },
+    {
+      "id": 27,
+      "title": "How to Build Microservice Architecture Using NodeJS and NestJS for E-commerce",
+      "img": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739962965204/9951e97c-2c5a-4361-b415-6d9e1d82eaf5.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp",
+      "link": "https://hazrat-ali.hashnode.dev/how-to-build-microservice-architecture-using-nodejs-and-nestjs-for-e-commerce",
+      "category": "Web Development",
+      "email": "hazrataliein@gmail.com"
+    },
+    {
+      "id": 28,
+      "title": "Embracing the React Functional Component Lifecycle: A Simple Guide with Hooks",
+      "img": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739875366124/e2490c7b-b508-4bb3-94d3-6f31da1f5520.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp",
+      "link": "https://hazrat-ali.hashnode.dev/embracing-the-react-functional-component-lifecycle-a-simple-guide-with-hooks",
+      "category": "Web Development",
+      "email": "hazrataliein@gmail.com"
+    },
+    {
+      "id": 29,
+      "title": "Embracing the React Mastering JavaScript: Essential Fundamentals for Developers Component Lifecycle: A Simple Guide with Hooks",
+      "img": "https://cdn.hashnode.com/res/hashnode/image/upload/v1739874773194/c03ed442-6776-46a7-8aec-2d6d0de4b727.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp",
+      "link": "https://hazrat-ali.hashnode.dev/mastering-javascript-essential-fundamentals-for-developers",
+      "category": "Programming",
+      "email": "hazrataliein@gmail.com"
+    }
+  ],
+  "nextId": 30
+}
