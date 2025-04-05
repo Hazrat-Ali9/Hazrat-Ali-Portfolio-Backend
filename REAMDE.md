@@ -1,3 +1,0 @@
-# Hazrat Ali
-
-# Software Engineering

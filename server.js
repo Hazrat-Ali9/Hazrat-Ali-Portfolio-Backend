@@ -83,7 +83,7 @@ const videoSchema = new mongoose.Schema({
     uploadedBy: String,
     comments: [{ type: mongoose.Schema.Types.ObjectId, ref: "Comment" }],
 });
-
+// Commmet Schema
 const commentSchema = new mongoose.Schema({
     text: String,
     userEmail: String,
