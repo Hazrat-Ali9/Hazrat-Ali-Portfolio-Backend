@@ -1,4 +1,6 @@
-# Hazrat Ali
+# Hazrat Ali 🚁
+
+# Programmer || Software Engineering ✈
 
 # Hazrat Ali Portfolio Server
 
