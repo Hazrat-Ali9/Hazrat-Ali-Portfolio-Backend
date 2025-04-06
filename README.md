@@ -1,7 +1,3 @@
-# Hazrat Ali
-
-# Programmer || Software Engineering
-
 # Hazrat Ali Portfolio Server Details
 
 A brief description of the project goes here.
