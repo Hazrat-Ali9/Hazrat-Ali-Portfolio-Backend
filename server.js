@@ -389,7 +389,7 @@ const checkEmail = (req, res, next) => {
 app.get('/api/blogs', (req, res) => {
     res.json(blogs);
 });
-
+// Post Method
 app.post('/api/blogs', checkEmail, (req, res) => {
     const { title, img, link, email, category } = req.body;
     const newBlog = { id: nextId++, title, img, link, category, email };
