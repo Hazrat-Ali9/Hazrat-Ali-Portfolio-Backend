@@ -397,7 +397,7 @@ app.post('/api/blogs', checkEmail, (req, res) => {
     writeData({ blogs, nextId });
     res.status(201).json(newBlog);
 });
-
+// Blog Index (Parse ID )
 app.put('/api/blogs/:id', checkEmail, (req, res) => {
     const { id } = req.params;
     const { title, img, link, category, email } = req.body;
